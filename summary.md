@@ -1,6 +1,6 @@
-# Major Areas
-## Particle Physics
-## NonLinear Physics
-## BioPhysics
+## Major Areas
+* Particle Physics
+* NonLinear Physics
+* BioPhysics
 
 ### Common data
